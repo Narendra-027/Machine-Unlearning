@@ -1,9 +1,9 @@
 To run the code, 
 
-step1 - download the repository and save upload to a drive folder
-step2 - Go to the root directory of Main.ipynb file
-step3 - In the IPYNB file, in second cell change the folder path to the path of your folder on your drive
-step4 - RUn the cells one by one, results will be produced accordingly
+- step1 - download the repository and save upload to a drive folder
+- step2 - Go to the root directory of Main.ipynb file
+- step3 - In the IPYNB file, in second cell change the folder path to the path of your folder on your drive
+- step4 - RUn the cells one by one, results will be produced accordingly
 
 Results will be saved in the csv files named in the scripts (after the -out)
 
